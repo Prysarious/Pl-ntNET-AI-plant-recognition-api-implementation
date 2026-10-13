@@ -1,4 +1,4 @@
-# Plantique plant recognition
+# Pl@ntNET plant recognition
 
 A small FastAPI demo that sends a plant photo to Pl@ntNet and returns the most likely matches. I made it to try using an API key with an AI-powered service.
 
